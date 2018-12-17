@@ -1,0 +1,545 @@
+﻿  SnippetRender.cpp
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\myinclude\glm\detail\type_vec2.hpp(45): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+  c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\myinclude\glm\detail\type_vec2.hpp(206): note: 参见对正在编译的 类 模板 实例化 "glm::tvec2<T,P>" 的引用
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\myinclude\glm\detail\type_vec2.hpp(46): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\myinclude\glm\detail\type_vec2.hpp(47): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\myinclude\glm\detail\type_vec3.hpp(45): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+  c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\myinclude\glm\detail\type_vec3.hpp(227): note: 参见对正在编译的 类 模板 实例化 "glm::tvec3<T,P>" 的引用
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\myinclude\glm\detail\type_vec3.hpp(46): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\myinclude\glm\detail\type_vec3.hpp(47): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\myinclude\glm\detail\type_vec4.hpp(45): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+  c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\myinclude\glm\detail\type_vec4.hpp(272): note: 参见对正在编译的 类 模板 实例化 "glm::tvec4<T,P>" 的引用
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\myinclude\glm\detail\type_vec4.hpp(46): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\myinclude\glm\detail\type_vec4.hpp(47): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\xlocale(319): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\mesh.h(90): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\model.h(199): warning C4458: “directory”的声明隐藏了类成员
+  c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\model.h(29): note: 参见“Model::directory”的声明
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\model.h(199): warning C4100: “gamma”: 未引用的形参
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\minwindef.h(130): warning C4005: “APIENTRY”: 宏重定义
+  c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\myinclude\glfw\glfw3.h(98): note: 参见“APIENTRY”的前一个定义
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\snippetrender\snippetrender.cpp(350): warning C4100: “color”: 未引用的形参
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\snippetrender\snippetrender.cpp(350): warning C4100: “shadows”: 未引用的形参
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\snippetrender\snippetrender.cpp(350): warning C4100: “EBOBOX”: 未引用的形参
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\snippetrender\snippetrender.cpp(350): warning C4100: “VBOBOX”: 未引用的形参
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\snippetrender\snippetrender.cpp(350): warning C4100: “indicesBox”: 未引用的形参
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\snippetrender\snippetrender.cpp(350): warning C4100: “verticesBox”: 未引用的形参
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\snippetrender\snippetrender.cpp(358): warning C4189: “sleeping”: 局部变量已初始化但不引用
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(530): warning C4774: “_scprintf”: 参数 1 中应存在的格式字符串不为字符串字面量
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(530): note: 例如，将 printf(name); 换用为 printf("%s", name);，因为“名称”中的格式说明符可能造成安全问题
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(530): note: 请考虑对已命名的字符串字面量使用 constexpr 说明符
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(583): note: 参见对正在编译的函数 模板 实例化“std::string std::_Floating_to_string<float>(const char *,_Ty)”的引用
+          with
+          [
+              _Ty=float
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(532): warning C4774: “sprintf_s”: 参数 3 中应存在的格式字符串不为字符串字面量
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(532): note: 例如，将 printf(name); 换用为 printf("%s", name);，因为“名称”中的格式说明符可能造成安全问题
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(532): note: 请考虑对已命名的字符串字面量使用 constexpr 说明符
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(542): warning C4774: “_scwprintf”: 参数 1 中应存在的格式字符串不为字符串字面量
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(542): note: 例如，将 printf(name); 换用为 printf("%s", name);，因为“名称”中的格式说明符可能造成安全问题
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(542): note: 请考虑对已命名的字符串字面量使用 constexpr 说明符
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(629): note: 参见对正在编译的函数 模板 实例化“std::wstring std::_Floating_to_wstring<float>(const wchar_t *,_Ty)”的引用
+          with
+          [
+              _Ty=float
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(544): warning C4774: “swprintf_s”: 参数 3 中应存在的格式字符串不为字符串字面量
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(544): note: 例如，将 printf(name); 换用为 printf("%s", name);，因为“名称”中的格式说明符可能造成安全问题
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(544): note: 请考虑对已命名的字符串字面量使用 constexpr 说明符
+glfw3dll.lib(glfw3.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR 已在 assimp.lib(assimp.dll) 中定义；已忽略第二个定义
+glfw3dll.lib(glfw3.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glfw3.lib(context.c.obj) : warning LNK4006: glfwExtensionSupported 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(context.c.obj) : warning LNK4006: glfwGetCurrentContext 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(context.c.obj) : warning LNK4006: glfwGetProcAddress 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(context.c.obj) : warning LNK4006: glfwMakeContextCurrent 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(context.c.obj) : warning LNK4006: glfwSwapBuffers 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(context.c.obj) : warning LNK4006: glfwSwapInterval 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(init.c.obj) : warning LNK4006: glfwGetVersion 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(init.c.obj) : warning LNK4006: glfwGetVersionString 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(init.c.obj) : warning LNK4006: glfwInit 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(init.c.obj) : warning LNK4006: glfwSetErrorCallback 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(init.c.obj) : warning LNK4006: glfwTerminate 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwCreateCursor 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwCreateStandardCursor 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwDestroyCursor 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwGetClipboardString 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwGetCursorPos 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwGetInputMode 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwGetJoystickAxes 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwGetJoystickButtons 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwGetJoystickName 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwGetKey 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwGetKeyName 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwGetMouseButton 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwGetTime 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwGetTimerFrequency 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwGetTimerValue 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwJoystickPresent 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwSetCharCallback 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwSetCharModsCallback 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwSetClipboardString 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwSetCursor 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwSetCursorEnterCallback 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwSetCursorPos 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwSetCursorPosCallback 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwSetDropCallback 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwSetInputMode 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwSetJoystickCallback 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwSetKeyCallback 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwSetMouseButtonCallback 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwSetScrollCallback 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(input.c.obj) : warning LNK4006: glfwSetTime 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(monitor.c.obj) : warning LNK4006: glfwGetGammaRamp 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(monitor.c.obj) : warning LNK4006: glfwGetMonitorName 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(monitor.c.obj) : warning LNK4006: glfwGetMonitorPhysicalSize 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(monitor.c.obj) : warning LNK4006: glfwGetMonitorPos 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(monitor.c.obj) : warning LNK4006: glfwGetMonitors 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(monitor.c.obj) : warning LNK4006: glfwGetPrimaryMonitor 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(monitor.c.obj) : warning LNK4006: glfwGetVideoMode 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(monitor.c.obj) : warning LNK4006: glfwGetVideoModes 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(monitor.c.obj) : warning LNK4006: glfwSetGamma 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(monitor.c.obj) : warning LNK4006: glfwSetGammaRamp 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(monitor.c.obj) : warning LNK4006: glfwSetMonitorCallback 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(vulkan.c.obj) : warning LNK4006: glfwCreateWindowSurface 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(vulkan.c.obj) : warning LNK4006: glfwGetInstanceProcAddress 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(vulkan.c.obj) : warning LNK4006: glfwGetPhysicalDevicePresentationSupport 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(vulkan.c.obj) : warning LNK4006: glfwGetRequiredInstanceExtensions 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(vulkan.c.obj) : warning LNK4006: glfwVulkanSupported 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwCreateWindow 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwDefaultWindowHints 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwDestroyWindow 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwFocusWindow 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwGetFramebufferSize 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwGetWindowAttrib 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwGetWindowFrameSize 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwGetWindowMonitor 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwGetWindowPos 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwGetWindowSize 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwGetWindowUserPointer 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwHideWindow 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwIconifyWindow 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwMaximizeWindow 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwPollEvents 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwPostEmptyEvent 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwRestoreWindow 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwSetFramebufferSizeCallback 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwSetWindowAspectRatio 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwSetWindowCloseCallback 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwSetWindowFocusCallback 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwSetWindowIcon 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwSetWindowIconifyCallback 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwSetWindowMonitor 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwSetWindowPos 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwSetWindowPosCallback 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwSetWindowRefreshCallback 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwSetWindowShouldClose 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwSetWindowSize 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwSetWindowSizeCallback 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwSetWindowSizeLimits 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwSetWindowTitle 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwSetWindowUserPointer 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwShowWindow 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwWaitEvents 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwWaitEventsTimeout 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwWindowHint 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(window.c.obj) : warning LNK4006: glfwWindowShouldClose 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(win32_monitor.c.obj) : warning LNK4006: glfwGetWin32Adapter 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(win32_monitor.c.obj) : warning LNK4006: glfwGetWin32Monitor 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(win32_window.c.obj) : warning LNK4006: glfwGetWin32Window 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(wgl_context.c.obj) : warning LNK4006: glfwGetWGLContext 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(egl_context.c.obj) : warning LNK4006: glfwGetEGLContext 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(egl_context.c.obj) : warning LNK4006: glfwGetEGLDisplay 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+glfw3.lib(egl_context.c.obj) : warning LNK4006: glfwGetEGLSurface 已在 glfw3dll.lib(glfw3.dll) 中定义；已忽略第二个定义
+opengl32.lib(OPENGL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR 已在 assimp.lib(assimp.dll) 中定义；已忽略第二个定义
+opengl32.lib(OPENGL32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+freeglut.lib(freeglut.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR 已在 assimp.lib(assimp.dll) 中定义；已忽略第二个定义
+freeglut.lib(freeglut.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glew32.lib(glew32.dll) : warning LNK4006: wglewIsSupported 已在 glew32s.lib(glew.obj) 中定义；已忽略第二个定义
+glew32.lib(glew32.dll) : warning LNK4006: wglewInit 已在 glew32s.lib(glew.obj) 中定义；已忽略第二个定义
+glew32.lib(glew32.dll) : warning LNK4006: wglewGetExtension 已在 glew32s.lib(glew.obj) 中定义；已忽略第二个定义
+glew32.lib(glew32.dll) : warning LNK4006: glewIsSupported 已在 glew32s.lib(glew.obj) 中定义；已忽略第二个定义
+glew32.lib(glew32.dll) : warning LNK4006: glewInit 已在 glew32s.lib(glew.obj) 中定义；已忽略第二个定义
+glew32.lib(glew32.dll) : warning LNK4006: glewGetString 已在 glew32s.lib(glew.obj) 中定义；已忽略第二个定义
+glew32.lib(glew32.dll) : warning LNK4006: glewGetExtension 已在 glew32s.lib(glew.obj) 中定义；已忽略第二个定义
+glew32.lib(glew32.dll) : warning LNK4006: glewGetErrorString 已在 glew32s.lib(glew.obj) 中定义；已忽略第二个定义
+glew32.lib(glew32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR 已在 assimp.lib(assimp.dll) 中定义；已忽略第二个定义
+glew32.lib(glew32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+kernel32.lib(KERNEL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR 已在 assimp.lib(assimp.dll) 中定义；已忽略第二个定义
+kernel32.lib(KERNEL32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+user32.lib(USER32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR 已在 assimp.lib(assimp.dll) 中定义；已忽略第二个定义
+user32.lib(USER32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+gdi32.lib(GDI32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR 已在 assimp.lib(assimp.dll) 中定义；已忽略第二个定义
+gdi32.lib(GDI32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+winspool.lib(WINSPOOL.DRV) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR 已在 assimp.lib(assimp.dll) 中定义；已忽略第二个定义
+winspool.lib(WINSPOOL.DRV) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+comdlg32.lib(COMDLG32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR 已在 assimp.lib(assimp.dll) 中定义；已忽略第二个定义
+comdlg32.lib(COMDLG32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+advapi32.lib(ADVAPI32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR 已在 assimp.lib(assimp.dll) 中定义；已忽略第二个定义
+advapi32.lib(ADVAPI32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+shell32.lib(SHELL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR 已在 assimp.lib(assimp.dll) 中定义；已忽略第二个定义
+shell32.lib(SHELL32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+ole32.lib(ole32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR 已在 assimp.lib(assimp.dll) 中定义；已忽略第二个定义
+ole32.lib(ole32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+oleaut32.lib(OLEAUT32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR 已在 assimp.lib(assimp.dll) 中定义；已忽略第二个定义
+oleaut32.lib(OLEAUT32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+uuid.lib(propkeys.obj) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+uuid.lib(guids.obj) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+odbc32.lib(ODBC32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR 已在 assimp.lib(assimp.dll) 中定义；已忽略第二个定义
+odbc32.lib(ODBC32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+Winmm.lib(WINMM.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR 已在 assimp.lib(assimp.dll) 中定义；已忽略第二个定义
+Winmm.lib(WINMM.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutWireTorus 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutWireTorus 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutWireTetrahedron 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutWireTetrahedron 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutWireTeapot 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutWireTeapot 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutWireSphere 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutWireSphere 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutWireOctahedron 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutWireOctahedron 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutWireIcosahedron 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutWireIcosahedron 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutWireDodecahedron 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutWireDodecahedron 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutWireCube 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutWireCube 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutWireCone 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutWireCone 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutWindowStatusFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutWindowStatusFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutWarpPointer 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutWarpPointer 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutVisibilityFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutVisibilityFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutVideoResizeGet 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutVideoResizeGet 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutVideoResize 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutVideoResize 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutVideoPan 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutVideoPan 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutUseLayer 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutUseLayer 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutTimerFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutTimerFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutTabletMotionFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutTabletMotionFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutTabletButtonFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutTabletButtonFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutSwapBuffers 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutSwapBuffers 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutStrokeWidth 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutStrokeWidth 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutStrokeLength 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutStrokeLength 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutStrokeCharacter 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutStrokeCharacter 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutStopVideoResizing 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutStopVideoResizing 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutSpecialUpFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutSpecialUpFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutSpecialFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutSpecialFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutSpaceballRotateFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutSpaceballRotateFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutSpaceballMotionFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutSpaceballMotionFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutSpaceballButtonFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutSpaceballButtonFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutSolidTorus 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutSolidTorus 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutSolidTetrahedron 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutSolidTetrahedron 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutSolidTeapot 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutSolidTeapot 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutSolidSphere 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutSolidSphere 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutSolidOctahedron 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutSolidOctahedron 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutSolidIcosahedron 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutSolidIcosahedron 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutSolidDodecahedron 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutSolidDodecahedron 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutSolidCube 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutSolidCube 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutSolidCone 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutSolidCone 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutShowWindow 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutShowWindow 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutShowOverlay 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutShowOverlay 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutSetupVideoResizing 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutSetupVideoResizing 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutSetWindowTitle 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutSetWindowTitle 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutSetWindow 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutSetWindow 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutSetMenu 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutSetMenu 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutSetKeyRepeat 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutSetKeyRepeat 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutSetIconTitle 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutSetIconTitle 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutSetCursor 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutSetCursor 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutSetColor 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutSetColor 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutReshapeWindow 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutReshapeWindow 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutReshapeFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutReshapeFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutReportErrors 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutReportErrors 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutRemoveOverlay 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutRemoveOverlay 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutRemoveMenuItem 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutRemoveMenuItem 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutPushWindow 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutPushWindow 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutPostWindowRedisplay 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutPostWindowRedisplay 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutPostWindowOverlayRedisplay 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutPostWindowOverlayRedisplay 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutPostRedisplay 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutPostRedisplay 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutPostOverlayRedisplay 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutPostOverlayRedisplay 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutPositionWindow 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutPositionWindow 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutPopWindow 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutPopWindow 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutPassiveMotionFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutPassiveMotionFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutOverlayDisplayFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutOverlayDisplayFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutMouseFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutMouseFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutMotionFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutMotionFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutMenuStatusFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutMenuStatusFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutMenuStateFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutMenuStateFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutMainLoop 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutMainLoop 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutLeaveGameMode 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutLeaveGameMode 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutLayerGet 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutLayerGet 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutKeyboardUpFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutKeyboardUpFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutKeyboardFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutKeyboardFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutJoystickFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutJoystickFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutInitWindowSize 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutInitWindowSize 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutInitWindowPosition 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutInitWindowPosition 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutInitDisplayString 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutInitDisplayString 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutInitDisplayMode 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutInitDisplayMode 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutInit 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutInit 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutIgnoreKeyRepeat 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutIgnoreKeyRepeat 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutIdleFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutIdleFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutIconifyWindow 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutIconifyWindow 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutHideWindow 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutHideWindow 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutHideOverlay 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutHideOverlay 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutGetWindow 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutGetWindow 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutGetModifiers 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutGetModifiers 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutGetMenu 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutGetMenu 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutGetColor 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutGetColor 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutGet 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutGet 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutGameModeString 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutGameModeString 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutGameModeGet 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutGameModeGet 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutFullScreen 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutFullScreen 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutForceJoystickFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutForceJoystickFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutExtensionSupported 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutExtensionSupported 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutEstablishOverlay 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutEstablishOverlay 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutEntryFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutEntryFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutEnterGameMode 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutEnterGameMode 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutDisplayFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutDisplayFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutDialsFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutDialsFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutDeviceGet 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutDeviceGet 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutDetachMenu 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutDetachMenu 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutDestroyWindow 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutDestroyWindow 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutDestroyMenu 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutDestroyMenu 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutCreateWindow 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutCreateWindow 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutCreateSubWindow 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutCreateSubWindow 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutCreateMenu 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutCreateMenu 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutCopyColormap 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutCopyColormap 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutChangeToSubMenu 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutChangeToSubMenu 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutChangeToMenuEntry 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutChangeToMenuEntry 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutButtonBoxFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutButtonBoxFunc 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutBitmapWidth 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutBitmapWidth 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutBitmapLength 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutBitmapLength 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutBitmapCharacter 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutBitmapCharacter 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutAttachMenu 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutAttachMenu 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutAddSubMenu 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutAddSubMenu 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp_glutAddMenuEntry 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: glutAddMenuEntry 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp___glutInitWithExit 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: __glutInitWithExit 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp___glutCreateWindowWithExit 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: __glutCreateWindowWithExit 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __imp___glutCreateMenuWithExit 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4006: __glutCreateMenuWithExit 已在 freeglut.lib(freeglut.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+glut32.lib(glut32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR 已在 assimp.lib(assimp.dll) 中定义；已忽略第二个定义
+glut32.lib(glut32.dll) : warning LNK4221: 此对象文件未定义任何之前未定义的公共符号，因此任何耗用此库的链接操作都不会使用此文件
+  SnippetRender.vcxproj -> C:\Users\wj202\Desktop\do\PhysX-12-8\PhysX_3.4\Snippets\compiler\vc15win64\./../../lib/vc15win64\SnippetRenderDEBUG.lib

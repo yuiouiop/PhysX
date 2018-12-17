@@ -1,0 +1,12 @@
+﻿  CctBoxController.cpp
+  CctCapsuleController.cpp
+  CctCharacterController.cpp
+  CctCharacterControllerCallbacks.cpp
+  CctCharacterControllerManager.cpp
+  CctController.cpp
+  CctObstacleContext.cpp
+  CctSweptBox.cpp
+  CctSweptCapsule.cpp
+  CctSweptVolume.cpp
+    正在创建库 ./../../../Lib/vc15win64/PhysX3CharacterKinematicDEBUG_x64.lib 和对象 ./../../../Lib/vc15win64/PhysX3CharacterKinematicDEBUG_x64.exp
+  PhysXCharacterKinematic.vcxproj -> C:\Users\wj202\Desktop\do\PhysX-12-8\PhysX_3.4\Source\compiler\vc15win64\./../../../bin/vc15win64\PhysX3CharacterKinematicDEBUG_x64.dll

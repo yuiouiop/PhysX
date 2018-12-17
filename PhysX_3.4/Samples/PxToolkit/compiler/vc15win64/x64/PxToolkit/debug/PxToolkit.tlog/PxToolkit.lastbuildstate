@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v141:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.17763.0
+debug|x64|C:\Users\wj202\Desktop\do\PhysX-12-8\PhysX_3.4\Samples\compiler\vc15win64\|

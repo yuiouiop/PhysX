@@ -1,0 +1,5 @@
+﻿  WindowsSamplePlatform.cpp
+  WindowsSampleUserInput.cpp
+  SamplePlatform.cpp
+  SampleUserInput.cpp
+  SamplePlatform-MT.vcxproj -> C:\Users\wj202\Desktop\do\PhysX-12-8\PhysX_3.4\Samples\SampleFramework\platform\compiler\vc15win64\./../../lib/vc15win64\SamplePlatform-MTDEBUG.lib

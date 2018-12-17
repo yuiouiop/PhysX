@@ -1,0 +1,17 @@
+﻿  WindowsSampleAssetManager.cpp
+  nv_dds.cpp
+  ODBlock.cpp
+  SampleApplication.cpp
+  SampleAsset.cpp
+  SampleAssetManager.cpp
+  SampleCommandLine.cpp
+  SampleDirManager.cpp
+  SampleInputAsset.cpp
+  SampleLineDebugRender.cpp
+  SampleMaterialAsset.cpp
+  SamplePointDebugRender.cpp
+  SampleTextureAsset.cpp
+  SampleTree.cpp
+  SampleTriangleDebugRender.cpp
+  targa.cpp
+  SampleFramework-MT.vcxproj -> C:\Users\wj202\Desktop\do\PhysX-12-8\PhysX_3.4\Samples\SampleFramework\framework\compiler\vc15win64\./../../lib/vc15win64\SampleFramework-MTDEBUG.lib

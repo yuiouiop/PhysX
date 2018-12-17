@@ -1,0 +1,25 @@
+﻿  DyArticulation.cpp
+  DyArticulationContactPrep.cpp
+  DyArticulationContactPrepPF.cpp
+  DyArticulationHelper.cpp
+  DyArticulationScalar.cpp
+  DyArticulationSIMD.cpp
+  DyConstraintPartition.cpp
+  DyConstraintSetup.cpp
+  DyConstraintSetupBlock.cpp
+  DyContactPrep.cpp
+  DyContactPrep4.cpp
+  DyContactPrep4PF.cpp
+  DyContactPrepPF.cpp
+  DyDynamics.cpp
+  DyFrictionCorrelation.cpp
+  DyRigidBodyToSolverBody.cpp
+  DySolverConstraints.cpp
+  DySolverConstraintsBlock.cpp
+  DySolverControl.cpp
+  DySolverControlPF.cpp
+  DySolverPFConstraints.cpp
+  DySolverPFConstraintsBlock.cpp
+  DyThreadContext.cpp
+  DyThresholdTable.cpp
+  LowLevelDynamics.vcxproj -> C:\Users\wj202\Desktop\do\PhysX-12-8\PhysX_3.4\Source\compiler\vc15win64\./../../../Lib/vc15win64\LowLevelDynamicsDEBUG.lib

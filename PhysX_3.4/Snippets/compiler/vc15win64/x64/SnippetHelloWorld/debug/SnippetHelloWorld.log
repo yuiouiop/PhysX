@@ -1,0 +1,63 @@
+﻿  SnippetHelloWorldRender.cpp
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\myinclude\glm\detail\type_vec2.hpp(45): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+  c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\myinclude\glm\detail\type_vec2.hpp(206): note: 参见对正在编译的 类 模板 实例化 "glm::tvec2<T,P>" 的引用
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\myinclude\glm\detail\type_vec2.hpp(46): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\myinclude\glm\detail\type_vec2.hpp(47): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\myinclude\glm\detail\type_vec3.hpp(45): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+  c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\myinclude\glm\detail\type_vec3.hpp(227): note: 参见对正在编译的 类 模板 实例化 "glm::tvec3<T,P>" 的引用
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\myinclude\glm\detail\type_vec3.hpp(46): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\myinclude\glm\detail\type_vec3.hpp(47): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\myinclude\glm\detail\type_vec4.hpp(45): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+  c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\myinclude\glm\detail\type_vec4.hpp(272): note: 参见对正在编译的 类 模板 实例化 "glm::tvec4<T,P>" 的引用
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\myinclude\glm\detail\type_vec4.hpp(46): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\myinclude\glm\detail\type_vec4.hpp(47): warning C4201: 使用了非标准扩展: 无名称的结构/联合
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\mat_helper.h(179): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\mat_helper.h(180): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\mat_helper.h(181): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\mat_helper.h(188): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\mat_helper.h(267): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\mat_helper.h(280): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\mat_helper.h(282): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\shader.h(31): warning C4530: 使用了 C++ 异常处理程序，但未启用展开语义。请指定 /EHsc
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\mesh.h(90): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\model.h(199): warning C4458: “directory”的声明隐藏了类成员
+  c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\model.h(29): note: 参见“Model::directory”的声明
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\model.h(199): warning C4100: “gamma”: 未引用的形参
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\snippethelloworld\snippethelloworldrender.cpp(123): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\snippethelloworld\snippethelloworldrender.cpp(124): warning C4388: “<”: 有符号/无符号不匹配
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\snippethelloworld\snippethelloworldrender.cpp(123): warning C4189: “sz”: 局部变量已初始化但不引用
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\snippethelloworld\snippethelloworldrender.cpp(233): warning C4100: “window”: 未引用的形参
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\snippethelloworld\snippethelloworldrender.cpp(236): warning C4100: “window”: 未引用的形参
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\snippethelloworld\snippethelloworldrender.cpp(248): warning C4100: “xoffset”: 未引用的形参
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\snippethelloworld\snippethelloworldrender.cpp(248): warning C4100: “window”: 未引用的形参
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\snippethelloworld\snippethelloworldrender.cpp(281): warning C4459: “camera”的声明隐藏了全局声明
+  c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\snippethelloworld\snippethelloworldrender.cpp(59): note: 参见“camera”的声明
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\snippethelloworld\snippethelloworldrender.cpp(504): warning C4189: “pushZ”: 局部变量已初始化但不引用
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\snippethelloworld\snippethelloworldrender.cpp(504): warning C4189: “pushX”: 局部变量已初始化但不引用
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(530): warning C4774: “_scprintf”: 参数 1 中应存在的格式字符串不为字符串字面量
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(530): note: 例如，将 printf(name); 换用为 printf("%s", name);，因为“名称”中的格式说明符可能造成安全问题
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(530): note: 请考虑对已命名的字符串字面量使用 constexpr 说明符
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(583): note: 参见对正在编译的函数 模板 实例化“std::string std::_Floating_to_string<float>(const char *,_Ty)”的引用
+          with
+          [
+              _Ty=float
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(532): warning C4774: “sprintf_s”: 参数 3 中应存在的格式字符串不为字符串字面量
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(532): note: 例如，将 printf(name); 换用为 printf("%s", name);，因为“名称”中的格式说明符可能造成安全问题
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(532): note: 请考虑对已命名的字符串字面量使用 constexpr 说明符
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(542): warning C4774: “_scwprintf”: 参数 1 中应存在的格式字符串不为字符串字面量
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(542): note: 例如，将 printf(name); 换用为 printf("%s", name);，因为“名称”中的格式说明符可能造成安全问题
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(542): note: 请考虑对已命名的字符串字面量使用 constexpr 说明符
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(629): note: 参见对正在编译的函数 模板 实例化“std::wstring std::_Floating_to_wstring<float>(const wchar_t *,_Ty)”的引用
+          with
+          [
+              _Ty=float
+          ]
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(544): warning C4774: “swprintf_s”: 参数 3 中应存在的格式字符串不为字符串字面量
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(544): note: 例如，将 printf(name); 换用为 printf("%s", name);，因为“名称”中的格式说明符可能造成安全问题
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.16.27023\include\string(544): note: 请考虑对已命名的字符串字面量使用 constexpr 说明符
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\shader.h(88): warning C4701: 使用了可能未初始化的局部变量“geometry”
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\snippets\compiler\vc15win64\opengl\model.h(220): warning C4701: 使用了可能未初始化的局部变量“format”
+  SnippetHelloWorld.vcxproj -> C:\Users\wj202\Desktop\do\PhysX-12-8\PhysX_3.4\Snippets\compiler\vc15win64\./../../../bin/vc15win64\SnippetHelloWorldDEBUG.exe
+  复制了 0 个文件
+  复制了 0 个文件

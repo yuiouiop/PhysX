@@ -1,0 +1,7 @@
+﻿  TriangleMeshBuilder.cpp
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\source\physxcooking\src\mesh\trianglemeshbuilder.cpp(970): error C2039: “date”: 不是“physx::PxBoundedData”的成员
+  c:\users\wj202\desktop\do\physx-12-8\physx_3.4\include\common\pxcoreutilitytypes.h(83): note: 参见“physx::PxBoundedData”的声明
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\source\physxcooking\src\mesh\trianglemeshbuilder.cpp(972): error C3861: “printf”: 找不到标识符
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\source\physxcooking\src\mesh\trianglemeshbuilder.cpp(975): error C2039: “date”: 不是“physx::PxBoundedData”的成员
+  c:\users\wj202\desktop\do\physx-12-8\physx_3.4\include\common\pxcoreutilitytypes.h(83): note: 参见“physx::PxBoundedData”的声明
+c:\users\wj202\desktop\do\physx-12-8\physx_3.4\source\physxcooking\src\mesh\trianglemeshbuilder.cpp(977): error C3861: “printf”: 找不到标识符

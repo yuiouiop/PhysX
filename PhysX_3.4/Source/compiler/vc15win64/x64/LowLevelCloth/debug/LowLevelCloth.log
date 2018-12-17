@@ -1,0 +1,19 @@
+﻿  Building ..\..\LowLevelCloth\src\avx\SwSolveConstraints.cpp
+  用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.16.27024.1 版
+  版权所有(C) Microsoft Corporation。保留所有权利。
+  
+  SwSolveConstraints.cpp
+  Allocator.cpp
+  Factory.cpp
+  PhaseConfig.cpp
+  SwCloth.cpp
+  SwClothData.cpp
+  SwCollision.cpp
+  SwFabric.cpp
+  SwFactory.cpp
+  SwInterCollision.cpp
+  SwSelfCollision.cpp
+  SwSolver.cpp
+  SwSolverKernel.cpp
+  TripletScheduler.cpp
+  LowLevelCloth.vcxproj -> C:\Users\wj202\Desktop\do\PhysX-12-8\PhysX_3.4\Source\compiler\vc15win64\./../../../Lib/vc15win64\LowLevelClothDEBUG.lib
